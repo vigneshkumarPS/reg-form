@@ -1,0 +1,31 @@
+.container{
+    background-color:grey;
+    background-image: url("https://w0.peakpx.com/wallpaper/138/68/HD-wallpaper-gym-unicorn-theme-night-northern-hard-work-moon-people-blue-dark.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:10px 350px;
+    padding:10px;
+    border-radius:20px;
+ }
+ 
+ 
+ label{
+    font-weight:bold;
+    display: block;
+    margin:20px;
+ }
+ input{
+    border-radius: 30px;
+ }
+    body{
+        display: blick;
+        background-image: url("https://static.vecteezy.com/system/resources/previews/006/728/161/non_2x/fitness-gym-pattern-blue-seamless-background-with-line-icons-illustration-vector.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+    }
+    button{
+        margin: 30px;
+        background-color:rgb(238, 38, 38);
+    }
+ 
